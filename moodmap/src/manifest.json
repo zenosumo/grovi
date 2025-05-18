@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "MoodMap",
+  "version": "1.0",
+  "description": "Cloud me if you can",
+  "permissions": [
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://pocmior.pythonanywhere.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

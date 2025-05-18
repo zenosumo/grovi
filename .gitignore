@@ -1,0 +1,21 @@
+# VSCode settings
+.vscode/
+
+# Python artifacts
+__pycache__/
+env/
+venv/
+.venv/
+*.pyc
+*.postman_collection.json
+*.postman_environment.json
+
+# Chrome Extension
+*/node_modules/
+*/dist/
+
+# Common
+.env
+.DS_Store
+*.log
+*.swp
